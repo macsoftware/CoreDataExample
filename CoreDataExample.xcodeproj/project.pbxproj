@@ -14,6 +14,7 @@
 		8837377629700D0C001C8C38 /* CoreDataExample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8837377429700D0C001C8C38 /* CoreDataExample.xcdatamodeld */; };
 		8837377829700D0E001C8C38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8837377729700D0E001C8C38 /* Assets.xcassets */; };
 		8837377B29700D0E001C8C38 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8837377929700D0E001C8C38 /* LaunchScreen.storyboard */; };
+		8837378329701017001C8C38 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8837378229701017001C8C38 /* DetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8837377729700D0E001C8C38 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8837377A29700D0E001C8C38 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8837377C29700D0E001C8C38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8837378229701017001C8C38 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				8837377929700D0E001C8C38 /* LaunchScreen.storyboard */,
 				8837377C29700D0E001C8C38 /* Info.plist */,
 				8837377429700D0C001C8C38 /* CoreDataExample.xcdatamodeld */,
+				8837378229701017001C8C38 /* DetailsViewController.swift */,
 			);
 			path = CoreDataExample;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				8837376C29700D0C001C8C38 /* AppDelegate.swift in Sources */,
 				8837376E29700D0C001C8C38 /* SceneDelegate.swift in Sources */,
 				8837377629700D0C001C8C38 /* CoreDataExample.xcdatamodeld in Sources */,
+				8837378329701017001C8C38 /* DetailsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
